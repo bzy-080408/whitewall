@@ -1,3 +1,4 @@
 # 表白墙
 ![photo](photo.jpg "Magic Gardens")
-#coming soon
+![photo](coming_soon.jpg "Magic Gardens")
+
